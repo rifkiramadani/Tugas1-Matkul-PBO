@@ -13,4 +13,4 @@ JAWABAN :
 
  Pada gamabar di atas terdapat kode program python untuk membuat perulangan sebanyak 100 kali,akan tetapi kelipatan saat kelipatan 10 di ganti nama kita sebanyak 3 kali,pertama yaitu kita mendeklarasikan syntax for dengan variable i di dalam nya setelah itu variable i tersebut terdapat perulangan dari angka 1 hingga angka 101,setelah itu jika variable i di bagi 10 dan sisa bagi nya 0 maka tampilkan perulangan dan "Muhammad Rifky Ramadani" Sebanyak 3 kali dikelipatan 10,jika salah maka tampilkan perulangan variable i saja.
 
-2.
+2. ![alt text](https://github.com/rifkiramadani/Tugas1-Matkul-PBO/blob/main/Cuplikan%20layar%202023-12-08%20221610.png)
