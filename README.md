@@ -23,5 +23,6 @@ Pada gambar di atas terdapat kode program python untuk membuat perulangan while 
 
 3. ![alt text](https://github.com/rifkiramadani/Tugas1-Matkul-PBO/blob/main/Cuplikan%20layar%202023-12-08%20223248.png)
 
+Pada gambar di atas terdapat kode program pyhton untuk menampilkan array menggunakan perulangan.pertama deklarasikan variable yang bernama "arr" yang di dalam nya terdapat array [1, 2, 3, 4, 5].setelah itu kita ingin menampilkan array tersebut menggunakan perulangan,dengan cara deklarasikan perulangan dengan variable "nilai" yang terdapat variable "arr" di dalamnya setelah itu tampilkan variable nilai dengan menggunakan perintah print.
 
 
