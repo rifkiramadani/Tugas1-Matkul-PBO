@@ -1,5 +1,5 @@
 # Muhammad Rifky Ramadani
-# G1F022039
+# G1F022039 (Sistem Informasi)
 # Tugas1-Matkul-PBO
 SOAL
 
