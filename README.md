@@ -19,5 +19,5 @@ JAWABAN :
 
 ![alt text](https://github.com/rifkiramadani/Tugas1-Matkul-PBO/blob/main/Cuplikan%20layar%202023-12-08%20222515.png)
 
-Pada gambar di atas terdapat kode program python untuk membuat perulangan while dengan pengkondisian if else,pertama yaitu kita deklarasikan terlebih dahulu variable j dengan nilai 1 di dalam nya,setelah itu
+Pada gambar di atas terdapat kode program python untuk membuat perulangan while dengan pengkondisian if else,pertama yaitu kita deklarasikan terlebih dahulu variable j dengan nilai 1 di dalam nya,setelah itu terdapat perulangan jika j lebih kecil sama dengan 5, maka ada pengkondisian dimana jika j di bagi 2 sisa bagi nya adalah 0 maka tampilkan variable j "bilangan genap",jikalau salah maka tampilkan hal yang sama akan tetapi bilangan nya adalah ganjil,setelah itu j+=1 yang artinya tambahkan nilai sebanyak 1 hingga batas perulangan yang di set yaitu 5.
 
