@@ -9,4 +9,5 @@ SOAL
 3. Buatlah sebuah variabel dengan tipe data array, kemudian tampilkan semua nilai dalam variabel tersebut menggunakan perulangan for
    
 JAWABAN : 
-1. ![alt text](https://github.com/rifkiramadani/Tugas1-Matkul-PBO/blob/main/Cuplikan%20layar%202023-12-08%20221610.png)
+1.
+![alt text](https://github.com/rifkiramadani/Tugas1-Matkul-PBO/blob/main/Cuplikan%20layar%202023-12-08%20221610.png)
