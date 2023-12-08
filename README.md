@@ -18,5 +18,6 @@ JAWABAN :
  Pada gambar di atas terdapat kode program python untuk membuat perulangan for dengan pengkondisian if else,pertama yaitu kita buat variable i yang di dalam nya terdapat angka range 1 hingga 6,dan jika variable 1 di bagi 2 dan sisa bagi nya adalah 0,maka tampilkan variable i "adalah bilangan genap",jika salah maka tampilkan hal yang sama akan tetapi nilai nya adalah ganjil. 
 
 ![alt text](https://github.com/rifkiramadani/Tugas1-Matkul-PBO/blob/main/Cuplikan%20layar%202023-12-08%20222515.png)
- 
+
+Pada gambar di atas terdapat kode program python untuk membuat perulangan while dengan pengkondisian if else,pertama yaitu kita deklarasikan terlebih dahulu variable j dengan nilai 1 di dalam nya,setelah itu
 
