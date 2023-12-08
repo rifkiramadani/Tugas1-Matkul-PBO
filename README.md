@@ -1,3 +1,5 @@
+# Muhammad Rifky Ramadani
+# G1F022039
 # Tugas1-Matkul-PBO
 SOAL
 
